@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "red-black tree", "red-black tree\red-black tree.csproj", "{111B3129-AA7B-40A7-93EA-2FC271B25675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111B3129-AA7B-40A7-93EA-2FC271B25675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111B3129-AA7B-40A7-93EA-2FC271B25675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111B3129-AA7B-40A7-93EA-2FC271B25675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111B3129-AA7B-40A7-93EA-2FC271B25675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
